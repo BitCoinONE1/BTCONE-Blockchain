@@ -26,7 +26,7 @@ BTCONE is an open source crypto-currency focused on fast private transactions wi
 ### PoS Rewards Breakdown
 
 <table>
-<th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes & Stakers</th>
+<th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Stakers</th>
 <tr><td>Phase 1</td><td>101-525800</td><td>50 BTCONE</td><td>60% (30 BTCONE)</td><td>40% (20 BTCONE)</td></tr>
 <tr><td>Phase 2</td><td>525801-1051401</td><td>45 BTCONE</td><td>60% (27 BTCONE)</td><td>40% (18 BTCONE)</td></tr>
 <tr><td>Phase 3</td><td>1051402-1577002</td><td>40 BTCONE</td><td>60% (24 BTCONE)</td><td>40% (16 BTCONE)</td>/tr>
