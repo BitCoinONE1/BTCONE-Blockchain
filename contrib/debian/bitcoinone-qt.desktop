@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BTCONE
+Comment=BTCONE P2P Cryptocurrency
+Comment[fr]=BTCONE, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BTCONE, eşten eşe kriptografik sanal para birimi
+Exec=bitcoinone-qt %u
+Terminal=false
+Type=Application
+Icon=bitcoinone128
+MimeType=x-scheme-handler/bitcoinone;
+Categories=Office;Finance;

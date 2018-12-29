@@ -1,0 +1,26 @@
+[Unit]
+Description=BTCONE's distributed currency daemon
+After=network.target
+
+[Service]
+User=bitcoinone
+Group=bitcoinone
+
+Type=forking
+PIDFile=/var/lib/bitcoinoned/bitcoinoned.pid
+
+ExecStart=/usr/bin/bitcoinoned -daemon -pid=/var/lib/bitcoinoned/bitcoinoned.pid \
+          -conf=/etc/bitcoinone/bitcoinone.conf -datadir=/var/lib/bitcoinoned
+
+ExecStop=-/usr/bin/bitcoinone-cli -conf=/etc/bitcoinone/bitcoinone.conf \
+         -datadir=/var/lib/bitcoinoned stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

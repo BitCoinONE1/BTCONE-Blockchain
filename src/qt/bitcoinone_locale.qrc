@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/bitcoinone_bg.qm</file>
+        <file alias="ca">locale/bitcoinone_ca.qm</file>
+        <file alias="cs">locale/bitcoinone_cs.qm</file>
+        <file alias="da">locale/bitcoinone_da.qm</file>
+        <file alias="de">locale/bitcoinone_de.qm</file>
+        <file alias="en">locale/bitcoinone_en.qm</file>
+        <file alias="en_US">locale/bitcoinone_en_US.qm</file>
+        <file alias="eo">locale/bitcoinone_eo.qm</file>
+        <file alias="es">locale/bitcoinone_es.qm</file>
+        <file alias="es_ES">locale/bitcoinone_es_ES.qm</file>
+        <file alias="fi">locale/bitcoinone_fi.qm</file>
+        <file alias="fr_FR">locale/bitcoinone_fr_FR.qm</file>
+        <file alias="hi_IN">locale/bitcoinone_hi_IN.qm</file>
+        <file alias="hr">locale/bitcoinone_hr.qm</file>
+        <file alias="hr_HR">locale/bitcoinone_hr_HR.qm</file>
+        <file alias="it">locale/bitcoinone_it.qm</file>
+        <file alias="ja">locale/bitcoinone_ja.qm</file>
+        <file alias="ko_KR">locale/bitcoinone_ko_KR.qm</file>
+        <file alias="lt_LT">locale/bitcoinone_lt_LT.qm</file>
+        <file alias="nl">locale/bitcoinone_nl.qm</file>
+        <file alias="pl">locale/bitcoinone_pl.qm</file>
+        <file alias="pt">locale/bitcoinone_pt.qm</file>
+        <file alias="pt_BR">locale/bitcoinone_pt_BR.qm</file>
+        <file alias="ro_RO">locale/bitcoinone_ro_RO.qm</file>
+        <file alias="ru">locale/bitcoinone_ru.qm</file>
+        <file alias="sk">locale/bitcoinone_sk.qm</file>
+        <file alias="sv">locale/bitcoinone_sv.qm</file>
+        <file alias="tr">locale/bitcoinone_tr.qm</file>
+        <file alias="uk">locale/bitcoinone_uk.qm</file>
+        <file alias="vi">locale/bitcoinone_vi.qm</file>
+        <file alias="zh_CN">locale/bitcoinone_zh_CN.qm</file>
+        <file alias="zh_TW">locale/bitcoinone_zh_TW.qm</file>
+    </qresource>
+</RCC>
