@@ -20,7 +20,7 @@ BTCONE is an open source crypto-currency focused on fast private transactions wi
 <table>
 <th colspan=4>BTCONE Premine</th>
 <tr><th>Block Height</th><th>Reward Amount</th><th>Notes</th></tr>
-<tr><td>1-100</td><td>1,000,000 BTCONE</td><td>Initial Pre-mine</td></tr>
+<tr><td>1-100</td><td>100,000,000 BTCONE</td><td>Initial Pre-mine</td></tr>
 </table>
 
 ### PoS Rewards Breakdown

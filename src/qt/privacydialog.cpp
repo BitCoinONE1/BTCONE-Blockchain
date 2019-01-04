@@ -813,7 +813,7 @@ void PrivacyDialog::updateAutomintStatus()
 {
     QString strAutomintStatus = tr("AutoMint Status:");
 
-    if (pwalletMain->isZeromintEnabled ()) {
+    if (pwalletMain->isZeromintEnabled()) {
        strAutomintStatus += tr(" <b>enabled</b>.");
     }
     else {
